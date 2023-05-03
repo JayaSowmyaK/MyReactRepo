@@ -4,7 +4,7 @@ const about=()=>
 {
     return(
         <div>
-            About
+            This is home page
         </div>
     )
 }
